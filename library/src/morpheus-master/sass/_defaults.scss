@@ -32,7 +32,7 @@ $header-font-weight: 700 !default;										// 400 or 700 as you wish
 
 /* Color palette */
 $background-color: 			 #FFFFFF !default;
-$background-color-secondary: #3949AB !default;
+$background-color-secondary: #1f3d52 !default;
 
 $primary-color:    			 #265b81 !default;
 $primary-color-highContrast: darken( $primary-color, 4% ) !default;	// for use of primary on non-white light backgrounds, such as greys
@@ -336,9 +336,9 @@ $measure: 960px !default;
 $banner-height: 52px !default;
 
 /* Logo location */
-$logo: 'images/logo.png' !default;
+$logo: 'images/inpathtes.png' !default;
 $logo-height: 36px !default;
-$logo-width: 60px !default;
+$logo-width: 65px !default;
 
 /* Tool icons */
 $skin-with-icons: true !default;
